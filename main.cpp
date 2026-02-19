@@ -12,6 +12,8 @@
  * Inteligencia Artificial Aplicada - Sección 318
  * Febrero 2026
  */
+
+// Definición de pines del sensor ultrasónico y LED
 const int trigPin = 7;   // Pin de disparo del HC-SR04
 const int echoPin = 6;   // Pin de eco del HC-SR04
 const int ledRojo = 13;  // LED de alerta (objeto cercano)
